@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1>
-      La mia prima madonna con vue
+     La mia pirma volta con Vue
     </h1>
   </div>
 </template>
@@ -15,7 +15,8 @@ name: 'TitleHeader'
 <style scoped>
   h1{
     font-size: 40px;
-    text-decoration-color: red;
+    color:silver;
+    margin-bottom: 50px ;
   }
 
 </style>
