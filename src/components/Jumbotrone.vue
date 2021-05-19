@@ -4,8 +4,7 @@
   <link href="https://fonts.googleapis.com/css?family=Archivo+display=swap" rel="stylesheet">
 
 <p class="logo-1">
-     DIO CAN
-    </p>
+THIS IS VUE    </p>
     
   </div>
 </template>
